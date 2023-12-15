@@ -6,4 +6,4 @@
 - [BD] dirijase a la carpeta `db` y ejectute el archivo `database.sql` en el motor de base de datos MYSQL
 - [ENV] para configurar las variables de entorno del backend configurar el archivo `.env.example` en la raiz del proyecto (El servidor corre por defecto en el puerto 3000) archivo `index.js`
 - [ENV] Para configurar las variables de etorno del Frontend, dirijase a la carpeta `client` y posterior a ello configure el archivo `.env.example`
-- Una vez configurado el proyecto correr el los comandos `npm run dev` tanto en la raiz como en la carpeta `client`
+- Una vez configurado el proyecto correr los comandos `npm run dev` tanto en la raiz como en la carpeta `client`
